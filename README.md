@@ -10,8 +10,8 @@ There are two modules to this repo:
 If you use the code in this repo or otherwise would like to reference our study, please cite:
 
 ````
-@article{luke2020no,
-  title={No COVID-19 Climate "Silver Lining" in the US Power Sector},
+@article{luke2021no,
+  title={No COVID-19 Climate Silver Lining in the US Power Sector},
   author={Luke, Max and Somani, Priyanshi and Cotterman, Turner and Suri, Dhruv and Lee, Stephen J},
   journal={Nature Communications},
   year={2021}
