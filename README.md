@@ -45,7 +45,7 @@ Configuration: using .env files for Python scripts
     PROJECT_ROOT=<local path to project root> 
     ~~~~
 
-Running
+Running Gaussian Processes
 ------------
 * To run the Gaussian Process (GP) analysis from data from pickle files, run:
 ~~~~
@@ -56,3 +56,7 @@ python gaussian_processes/src/models/run_gps_and_plot.py
 python gaussian_processes/src/data/get_eia923_data.py
 python gaussian_processes/src/data/get_eia923_emissions_by_fuel.py
 ~~~~
+
+Running Economic Modeling
+
+* Please refer to the document: economic_modeling/README.md in this repo
